@@ -1,0 +1,1 @@
+This is LockLemora's first git project!
